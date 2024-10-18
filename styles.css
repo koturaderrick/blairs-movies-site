@@ -146,8 +146,8 @@ text-align: center;
 .card img{
     width:100%;
     height:300px;
-    object-fit:auto;
-    display:block;
+    object-fit:cover;
+    
 }
 .card h3{
     font-size: 0.5rem;
@@ -163,24 +163,6 @@ text-align: center;
 }
 .card a:hover{
     text-decoration: underline;
-}
-/*mobile styles*/
-@media(max-width:768px){
-    .grid{
-        grid-template-columns: 1fr;
-    }
-    .card{
-        width:300%;
-        margin-bottom: 2rem;
-}
-}
-.card img{
-    height: 450px;
-}
-@media(max-width) {
-    .card img{
-        height:450px;
-    }
 }
 /*footer*/
 .footer{
