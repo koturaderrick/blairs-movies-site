@@ -134,7 +134,6 @@ text-align: center;
 }
 .card{
     background-color: #f7f7f7;
-    border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     transition: transform 0.3s ease;
