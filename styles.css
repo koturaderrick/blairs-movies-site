@@ -16,7 +16,7 @@ body{
     color: #fff;
     padding:1rem 0;
     position:fixed;
-    width:100%;
+    width:50%;
     top:0;
     z-index:10;
 }
