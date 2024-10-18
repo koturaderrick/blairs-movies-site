@@ -54,7 +54,7 @@ text-align: center;
 .hero{
     background-image:url('images/Rebel.jpg');
     background-size:cover;
-    background-position:auto;
+    background-position:center;
     background-repeat: no-repeat;
     height: 100vh;
     display:flex;
