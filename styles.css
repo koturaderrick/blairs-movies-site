@@ -145,13 +145,13 @@ text-align: center;
 }
 .card img{
     width:100%;
-    height:auto;
-    object-fit: auto;
+    height:200px;
+    object-fit:cover;
     max-width: 100%;
     border-radius: 10px 10px 0 0;
 }
 .card h3{
-    font-size: 1rem;
+    font-size: 0.1rem;
     margin-bottom:0.5rem;
     padding:0 1rem;
     color: #333;
